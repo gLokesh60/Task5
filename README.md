@@ -1,1 +1,2 @@
 # Task5
+This project focuses on applying Decision Tree and Random Forest classifiers to the Heart Disease dataset. It includes data cleaning, model training, and evaluation using accuracy and confusion matrix. A decision tree was visualized, and overfitting was controlled using depth limitation. A random forest model was also trained and compared. Feature importance was analyzed to understand key predictors. Cross-validation was used to assess model stability.
